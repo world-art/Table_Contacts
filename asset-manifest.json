@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Table_Contacts/static/css/main.93b92359.chunk.css",
+    "main.js": "/Table_Contacts/static/js/main.a0d22f01.chunk.js",
+    "main.js.map": "/Table_Contacts/static/js/main.a0d22f01.chunk.js.map",
+    "runtime-main.js": "/Table_Contacts/static/js/runtime-main.258c1ef2.js",
+    "runtime-main.js.map": "/Table_Contacts/static/js/runtime-main.258c1ef2.js.map",
+    "static/js/2.aebb34c7.chunk.js": "/Table_Contacts/static/js/2.aebb34c7.chunk.js",
+    "static/js/2.aebb34c7.chunk.js.map": "/Table_Contacts/static/js/2.aebb34c7.chunk.js.map",
+    "index.html": "/Table_Contacts/index.html",
+    "static/css/main.93b92359.chunk.css.map": "/Table_Contacts/static/css/main.93b92359.chunk.css.map",
+    "static/js/2.aebb34c7.chunk.js.LICENSE.txt": "/Table_Contacts/static/js/2.aebb34c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.258c1ef2.js",
+    "static/js/2.aebb34c7.chunk.js",
+    "static/css/main.93b92359.chunk.css",
+    "static/js/main.a0d22f01.chunk.js"
+  ]
+}
