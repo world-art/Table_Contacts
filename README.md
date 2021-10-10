@@ -1,4 +1,4 @@
-# DEMO
+# Demo
 :bookmark: https://world-art.github.io/Table_Contacts/
 # Getting Started with Create React App
 
